@@ -1,3 +1,5 @@
 # CNU-2019-Fall-Algorithms
-- Computer Science Engineer
+- ChungNam National University
+- Computer Science Engineering
+- 201502023 MinKi Kim
 - Professor : EunBae Kong
